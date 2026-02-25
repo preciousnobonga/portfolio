@@ -1,9 +1,9 @@
-# 📊 Precious Nobonga – Data Analyst Portfolio
+# 📊 Precious Nobonga-Nkomo – Data Analyst Portfolio
 
 Welcome to my professional portfolio. Here you’ll find my CV, certifications, and selected data projects.
 
 ## 📄 CV
-[Download my CV](./CV/Precious_Nobonga_CV.pdf)
+[Download my CV](./CV/Precious_Nobonga-Nkomo_CV.pdf)
 
 ## 🏅 Certifications
 - Google Data Analytics Professional Certificate
